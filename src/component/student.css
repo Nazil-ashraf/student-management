@@ -1,0 +1,29 @@
+.container{
+    height: 90%;
+    width: 25%;
+    border: 1px solid black;
+}
+.container--heading{
+    height: 5rem;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: darksalmon;
+    font-weight: bolder;
+    font-size: 25px;
+    opacity: 0.7;
+}
+.container--content{
+    height: 80%;
+    width: 100%;
+    background-color: white;
+
+}
+.container--footer{
+    height: 6rem;
+    width: 100%;
+    background-color: darkkhaki;
+    opacity: 0.7;
+
+}

@@ -1,0 +1,10 @@
+.student-management{
+    height: 100ch;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    background-color: lightgreen;
+    opacity: 0.7;
+}
